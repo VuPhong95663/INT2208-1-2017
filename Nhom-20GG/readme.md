@@ -1,9 +1,20 @@
-#Trang web giúp đỡ học Tiếng Anh:(Tham khảo trang web:studynhac.vn và app: Memrise)
-## Mô tả project:
-###Trang web có các chức năng chính:
+#Các thành viên:
+-Vũ Văn Phong
 
-1. Học tiếng Anh qua videos(ca nhạc, hoạt hình, truyện kể) mỗi videos sẽ là videos song ngữ giúp cho người học có thể luyện nghe dễ dàng.
-2. Học các bài học tập trung vào từ vựng và các câu tiếng Anh thông dụng qua mini-game trả lời câu hỏi với nhiều dạng câu hỏi(mô phỏng app **Memrise**)
+-Trịnh Đình Việt
+
+-Lê Hồng Quân
+
+-Trần Văn Trọng
+
+##Trang web giúp đỡ học Tiếng Anh:(Tham khảo trang web:studynhac.vn)
+
+## Mô tả project:
+###Tính năng đã phát triển:
+1. Học tiếng Anh qua videos(ca nhạc) mỗi video sẽ là videos song ngữ giúp cho người học có thể luyện nghe dễ dàng.
+
+###Sơ đồ ca sử dụng:
+![Imgur](http://i.imgur.com/byGeavr.jpg)
 
 ###Công nghệ sử dụng dự kiến: 
 1: HTML, CSS, Javascrip, PHP và hệ quản trị cơ sở dữ liệu MySQL,...
